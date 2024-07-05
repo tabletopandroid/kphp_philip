@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage ReleaseNotes="PackageDefinitions\tabletopandroid-airport-kphp-philip\ReleaseNotes.xml" Version="0.2.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Philip Airport</Title>
+		<Manufacturer/>
+		<Creator>Marc Ferguson</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\tabletopandroid-airport-kphp-philip\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\tabletopandroid-airport-kphp-philip\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-kphp-philip\scenery\</AssetDir>
+			<OutputDir>Scenery\airport-kphp-philip\scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

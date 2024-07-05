@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "Philip Airport",
+  "manufacturer": "",
+  "creator": "Marc Ferguson",
+  "package_version": "0.2.0",
+  "minimum_game_version": "1.37.19",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "VERSION 0.2.0 RELEASED JULY 5, 2024\\nAdded more props and touches to the scenery.",
+      "OlderHistory": "VERSION 0.1.0 RELEASED JULY 1, 2024\\nAdded runways and taxiways.\nAdded GA parking.\nAdded other elements and animated humans."
+    }
+  }
+}

@@ -1,0 +1,13 @@
+<CommandsInputs>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\kphp-pilip\PackageDefinitions\tabletopandroid-airport-kphp-philip\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="tabletopandroid-airport-kphp-philip" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\kphp-pilip\PackageSources\Scenery\airport-kphp-philip\scenery\KPHP.xml" Failure="0">
+		<Package Name="tabletopandroid-airport-kphp-philip" Failure="0">
+			<AssetGroup Name="scenery"/>
+		</Package>
+	</File>
+</CommandsInputs>
+
